@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "shr-tag-pre-highlight" "20171113.914" "Syntax highlighting code block in HTML" '((emacs "25.1") (language-detection "0.1.0")) :commit "6182f43a36b0f82ba6edcf6e423b5f69a46a814e" :keywords '("html") :authors '(("Chunyang Xu" . "mail@xuchunyang.me")) :maintainer '("Chunyang Xu" . "mail@xuchunyang.me") :url "https://github.com/xuchunyang/shr-tag-pre-highlight.el")

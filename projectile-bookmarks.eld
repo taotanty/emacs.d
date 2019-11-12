@@ -1,0 +1,1 @@
+("~/" "~/code/doc/" "/usr/local/")

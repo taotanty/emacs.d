@@ -1,0 +1,8 @@
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+TAGS: { @Office(o) @Home(h) @Computer(c) @Call(C) @Way(w) @Lunchtime(l)}
+#+TAGS:
+* Tasks
+: 为了是各个匪类项目的标题在日程表(Agenda View)1中显示，需要在项目名称下面写上[#+CATEGORY]。
+#+CATEGORY: Tasks
+** Done 测试任务1                                                        :@Lunchtime:
